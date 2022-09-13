@@ -2,21 +2,18 @@
 
 <h3 align="center">A passionate Frontend Engineer</h3>
 
-<!--
-**wulandaridewi69/wulandaridewi69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+```
 - 🌱 I’m currently learning React.js, Next.js, UI/UX
 - 📫 How to reach me: dewi.wulandari.ruslan@gmail.com
 - 👨‍💻 All of my projects are available at [https://wanda-portofolio.surge.sh/](https://wanda-portofolio.surge.sh/)
 
--->
+```
 # 💬 About Me:
 I joined Alterra Academy in Mei 2022 and graduated in July 2022. I’ve specialized in Frontend using React.js, Next.js, Figma, and other stack related. I learn many things since 2020 by joining the Digitalent program, then joining Alterra afterward. I’ve created some projects such as MN Room App, Go Meet App, Seebooks App, and others. I always keep learning to develop my skill.<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Wanda_1437) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dewi-wulandari-970590136/) [![Portfolio](https://wanda-portofolio.surge.sh/ 
-![image](https://user-images.githubusercontent.com/47471960/189831955-c34c4346-27ca-4208-a6d0-b37c9bf1b0dc.png)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Wanda_1437) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dewi-wulandari-970590136/)
 
 
 # 💻 Tech Stack:
