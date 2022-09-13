@@ -5,8 +5,7 @@
 ```
 - 🌱 I’m currently learning React.js, Next.js, UI/UX
 - 📫 How to reach me: dewi.wulandari.ruslan@gmail.com
-- 👨‍💻 All of my projects are available at [https://wanda-portofolio.surge.sh/](https://wanda-portofolio.surge.sh/)
-
+- 👨‍💻 All of my projects are available at [https://wanda-portofolio.surge.sh/]
 ```
 # 💬 About Me:
 I joined Alterra Academy in Mei 2022 and graduated in July 2022. I’ve specialized in Frontend using React.js, Next.js, Figma, and other stack related. I learn many things since 2020 by joining the Digitalent program, then joining Alterra afterward. I’ve created some projects such as MN Room App, Go Meet App, Seebooks App, and others. I always keep learning to develop my skill.<br>
