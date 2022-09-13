@@ -1,5 +1,4 @@
-### My Name is Wanda 👋
-
+<h2 align="center"> Hai..My Name is Wanda 👋</h2>
 
 <h3 align="center">A passionate Frontend Engineer</h3>
 
@@ -16,7 +15,9 @@ I joined Alterra Academy in Mei 2022 and graduated in July 2022. I’ve speciali
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Wanda_1437) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dewi-wulandari-970590136/) [![Hackerrank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/@dewi_wulandari_1) [![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.gg/#0981)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Wanda_1437) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dewi-wulandari-970590136/) [![Portfolio](https://wanda-portofolio.surge.sh/ 
+![image](https://user-images.githubusercontent.com/47471960/189831955-c34c4346-27ca-4208-a6d0-b37c9bf1b0dc.png)
+)]
 
 
 # 💻 Tech Stack:
