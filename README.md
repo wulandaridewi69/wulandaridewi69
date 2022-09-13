@@ -35,12 +35,12 @@ I joined Alterra Academy in Mei 2022 and graduated in July 2022. I’ve speciali
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wulandaridewi69&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <h1 align="center">Hi 👋, I'm Wanda</h1>
 <h3 align="center">A passionate Frontend Engineer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wulandaridewi69&label=Profile%20views&color=0e75b6&style=flat" alt="wulandaridewi69" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wulandaridewi69" alt="wulandaridewi69" /></a> </p>
 
 - 🌱 I’m currently learning **React.js, Next.js, UI/UX**
 
@@ -62,3 +62,5 @@ I joined Alterra Academy in Mei 2022 and graduated in July 2022. I’ve speciali
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wulandaridewi69&show_icons=true&locale=en&layout=compact" alt="wulandaridewi69" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wulandaridewi69&show_icons=true&locale=en" alt="wulandaridewi69" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wulandaridewi69&" alt="wulandaridewi69" /></p>
