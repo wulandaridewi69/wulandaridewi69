@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Frontend Engineer</h3>
 
 
-- 🌱 I’m currently learning React.js, Next.js, UI/UX
+- 🌱 I’m currently learning React.js, Next.js, Redux, UI/UX
 - 📫 How to reach me: dewi.wulandari.ruslan@gmail.com
 - 👨‍💻 All of my projects are available at https://wanda-portofolio.surge.sh/
 
